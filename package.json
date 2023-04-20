@@ -1,0 +1,21 @@
+{
+  "name": "nftlottery",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.11"
+  },
+  "dependencies": {
+    "chai": "^4.3.4"
+  },
+  "description": ""
+}
